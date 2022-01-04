@@ -1,0 +1,33 @@
+.container {
+    padding: .5em 1em;
+}
+
+#btn-search {
+    background-color: ghostwhite;
+    border-color: lightseagreen;
+    border-radius: 2em;
+    border-style: solid;
+    color: lightseagreen;
+    font-weight: bolder;
+    padding: .5em;
+    width: 150px;
+}
+
+#btn-plus {
+    background-color: turquoise;
+    border-color: turquoise;
+    border-radius: 50%;
+    border-style: solid;
+    color: white;
+    font-size: 1.2rem;
+    height: 30px;
+    width: 30px;
+}
+
+#btn-cta {
+    background-color: dodgerblue;
+    border: 2px solid black;
+    box-shadow: 3px 3px 0px 1px rgba(0,0,0,1);
+    color: white;
+    padding: .5em 2em;
+}
